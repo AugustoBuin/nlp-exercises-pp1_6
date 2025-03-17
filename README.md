@@ -11,6 +11,12 @@ Ambos os métodos têm vantagens e limitações, que serão discutidas abaixo.
 ---
 
 ## ⚙️ Configuração e Instalação
+Clone o reporitório:
+
+```
+git clone https://github.com/AugustoBuin/nlp-exercises-pp1_6.git
+```
+
 Para rodar os scripts, instale as dependências, nas duas pastas, e depois rode cada uma delas, com os seguintes comandos:
 
 ```sh
